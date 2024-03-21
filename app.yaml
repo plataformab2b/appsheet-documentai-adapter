@@ -1,4 +1,4 @@
-runtime: python
+runtime: python27
 runtime_config:
     operating_system: "debian11"
     runtime_version: "3.9"
