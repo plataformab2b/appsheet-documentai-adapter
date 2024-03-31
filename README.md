@@ -1,5 +1,5 @@
 # AppSheet Document AI Adapter
-
+# this is for testing only
 This service provides a REST API for AppSheet to integrate GCP Document AI services into AppSheet no-code apps.  It uses MongoDB to store the document AI results, and then sync to AppSheet through the API hosted in this service.
 
 AppSheet connects to this service using the API data provider (Apigee provider), which can then synchronize document forms to the API and get the form processing results back to display to the user.
